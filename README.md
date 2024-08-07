@@ -12,4 +12,12 @@ Personal Life ☀️
 In my personal life, I enjoy bouldering 🧗‍♂️, walking my dog Arlo and cycling! I also am very passionate about linguistics and etymology, I speak about ~5 languages, although each to different levels. 
 Unsurprisingly, I also enjoy playing video games, especially in the survival genre, such as The Forest, Terraria and Minecraft!
 <!--START_SECTION:waka-->
+
+```txt
+Kotlin        5 hrs 6 mins    ███████████████████████░░   92.51 %
+XML           19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+YAML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
