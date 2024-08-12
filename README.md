@@ -14,11 +14,11 @@ Unsurprisingly, I also enjoy playing video games, especially in the survival gen
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            7 hrs 35 mins   ███████████████████████▒░   92.76 %
-XML               20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Groovy            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Gradle            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Kotlin            6 hrs 50 mins   ███████████████████████░░   92.60 %
+XML               18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Groovy            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Gradle            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
